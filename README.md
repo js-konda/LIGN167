@@ -1,2 +1,2 @@
 # LIGN167
-Codes od Deep Learning for Natural Language Processing
+Codes of Deep Learning for Natural Language Processing
